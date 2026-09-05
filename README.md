@@ -39,6 +39,7 @@
 ## 💻 Developer Tools & Code Execution
 *Plugins for secure code execution, Git integration, and development workflows.*
 
+- [Agent QA](https://github.com/vostride/agent-qa) - MCP tools for authoring, running, and triaging natural-language web, Android, and iOS tests; source-available under FSL-1.1-ALv2. `[MCP]` `[TypeScript]`
 - [E2B Sandbox](https://github.com/e2b-dev/E2B) - Secure, isolated cloud sandboxes for AI agents to run untrusted code. `[Any Framework]` `[Python/TS]`
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - Enables agents to inspect repositories, manage issues, handle PRs, and commit code. `[MCP]` `[TypeScript]`
 - [GitLab Server](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) - GitLab integration for issue tracking, repository management, and CI/CD inspection. `[MCP]` `[TypeScript]`

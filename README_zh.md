@@ -35,6 +35,7 @@
 ## 💻 开发者工具与代码执行
 *用于安全执行代码、集成 Git 仓库以及辅助日常开发流的插件。*
 
+- [Agent QA](https://github.com/vostride/agent-qa) - 通过 MCP 工具以自然语言编写、运行 Web、Android 与 iOS 测试并分析失败原因；源码可见，采用 FSL-1.1-ALv2 许可。 `[MCP]` `[TypeScript]`
 - [E2B Sandbox](https://github.com/e2b-dev/E2B) - 供 AI 智能体安全运行未信任代码的云端隔离沙箱环境。 `[Any Framework]` `[Python/TS]`
 - [GitHub MCP Server](https://github.com/modelcontextprotocol/servers/tree/main/src/github) - 允许智能体审查代码、管理 Issue/PR 以及提交 Commit。 `[MCP]` `[TypeScript]`
 - [GitLab Server](https://github.com/modelcontextprotocol/servers/tree/main/src/gitlab) - 集成 GitLab 覆盖代码库管理、Issue 追踪与 CI/CD 审查。 `[MCP]` `[TypeScript]`
